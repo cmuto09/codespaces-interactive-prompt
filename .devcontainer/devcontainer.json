@@ -1,0 +1,3 @@
+{
+    "postAttachCommand": "./.devcontainer/postAttach.sh"
+}
