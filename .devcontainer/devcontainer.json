@@ -1,3 +1,3 @@
 {
-    "postAttachCommand": "./.devcontainer/postAttach.sh"
+    // "postAttachCommand": "./.devcontainer/postAttach.sh"
 }

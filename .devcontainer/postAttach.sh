@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 unset GITHUB_TOKEN
-gh auth login -s codespace:secrets
+ghauth login -s codespace:secrets 
 
 echo "What is your name?"
 read name
