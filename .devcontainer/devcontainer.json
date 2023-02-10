@@ -1,3 +1,4 @@
 {
-    // "postAttachCommand": "./.devcontainer/postAttach.sh"
+    "postCreateCommand": "apt-get install jq",
+    "postAttachCommand": "./.devcontainer/postAttach.sh"
 }
